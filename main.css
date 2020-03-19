@@ -1,0 +1,16 @@
+table td {
+    padding: 5px;
+}
+
+th {
+    padding: 20px;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+}
+
+table,
+th,
+td {
+    border: 1px solid gray;
+}
