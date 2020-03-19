@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "prettier": "^1.19.1"
+  },
+  "prettier": {
+    "tabWidth": 4
+  },
+  "scripts": {
+    "prettier": "prettier --write *.{html,css,js}"
+  }
+}
