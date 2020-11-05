@@ -15,9 +15,3 @@ To view the concept, clone this repository, and open `index.html` in the browser
 ![Made with Bulma](https://bulma.io/images/made-with-bulma.png)
 
 ... and love by [Reece Dunham](https://rdil.rocks/).
-
-## FAQ
-
-Q: Why are there `package.json` and `yarn.lock` files?
-
-A: They are here because they are needed for [Prettier](https://prettier.io/), the code formatter used in this repository.
